@@ -24,6 +24,7 @@
   "license": "MIT",
   "homepage": "https://github.com/dabasjayant/bcrypt-mini#readme",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
